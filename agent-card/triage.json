@@ -1,0 +1,7 @@
+{
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+  "name": "Triage Agent",
+  "description": "Maintainer-side triage agent for the Accountable Report Inbox. Checks reporter badges and collects refundable fees for security reports. Testnet demo only.",
+  "version": "1.0.0",
+  "active": true
+}
